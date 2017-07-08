@@ -1,0 +1,45 @@
+.topnav {
+    overflow: hidden;
+    background-color: lightgrey;
+    position: fixed;
+    width: 100%;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover {
+    background-color: lightseagreen;
+    color: black;
+}
+body{
+    background-color: lightcyan;
+}
+
+.suit{
+    padding-left: 350px;
+}
+.core{
+    margin:20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: lightyellow;
+}
+.core1{
+    margin:20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: lightgreen;
+}
+h1{
+    color:firebrick;
+}
+h2{
+    color:darkgoldenrod;
+}

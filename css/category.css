@@ -1,0 +1,39 @@
+.list{
+    font-size: 40px;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    text-shadow: darkgrey 3px 3px 5px ;
+}
+.cat{
+    background-color: green;
+}
+.heading1{
+    color: white;
+    font-family: 'Aldrich', sans-serif;
+    font-size: 5.000em;
+    text-shadow: 0 0 0.313em #fff, 0 0 0.625em #fff;
+    background-color: orangered;
+
+}
+.topnav {
+    overflow: hidden;
+    background-color: darkorange;
+    position: fixed;
+    width: 100%;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover {
+    background-color: green;
+    color: black;
+}
